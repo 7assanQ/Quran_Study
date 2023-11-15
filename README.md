@@ -16,8 +16,7 @@ This repository is made to analyze the Quran
     on the given surah number and the ayat number
 
 - program 4) [letters_Quran.py](letters_Quran.py)
-    to read the content of the ayat based
-    on the given surah number and the ayat number
+    To count how many each letter is repeated in the Quran
   
 ---
 
