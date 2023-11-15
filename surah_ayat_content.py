@@ -1,6 +1,6 @@
 '''
 to read the content of the ayat based
-on the givin surah number and the ayat number
+on the given surah number and the ayat number
 
 '''
 ######### USER INPUT #########
