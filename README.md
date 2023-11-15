@@ -29,10 +29,10 @@ This repository is made to analyze the Quran
 
 - Then run any code and check the output in the terminal. 
 
-- Only change this following part of the code 
-![last_letter](assets/last_letter.png)
-![last_letter](assets/letter_repeted_in_surah.png)
-![last_letter](assets/surah_ayat_content.png)
+- Only change this following variables in the codes
+-![last_letter](assets/last_letter.png)
+-![last_letter](assets/letter_repeted_in_surah.png)
+-![last_letter](assets/surah_ayat_content.png)
 
 # This file is the Quran txt version
 -If this file is used, PLEASE also include the copyright block with it.
